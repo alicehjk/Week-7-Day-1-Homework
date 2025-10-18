@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-redux": "^9.2.0",
+    "redux": "^5.0.1",
+    "styled-components": "^6.1.19",
+    "styled-theming": "^2.2.0"
+  }
+}
